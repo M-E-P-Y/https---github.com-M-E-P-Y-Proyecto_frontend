@@ -28,7 +28,7 @@ const HistorialPage = () => {
             <div className="table-responsive bg-secondary-dark rounded shadow">
                 <table className="table table-dark table-hover mb-0">
                     <thead>
-                        <tr>
+                        <tr> 
                             <th>Fecha</th>
                             <th>Tipo</th>
                             <th>Mensaje</th>
